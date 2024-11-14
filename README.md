@@ -1,1 +1,1 @@
-# Digit-Classification-Project
+# Digit Classification Machine Learning Project
